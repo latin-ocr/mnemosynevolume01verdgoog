@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mnemosynevolume01verdgoog_0121.png"; bbox 0 0 3369 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 393 2222 2781 2573">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 393 2222 2781 2573">
+     <span class='ocr_line' id='line_1_1' title="bbox 473 2222 2781 2305; baseline 0.001 -18"><span class='ocrx_word' id='word_1_1' title='bbox 473 2228 874 2289; x_wconf 67' lang='lat' dir='ltr'>Bnmornch</span> <span class='ocrx_word' id='word_1_2' title='bbox 926 2222 1326 2289; x_wconf 70' lang='lat' dir='ltr'><strong>Pfflmmmm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1381 2229 1630 2288; x_wconf 68' lang='lat' dir='ltr'>BA&#39;rAvA</span> <span class='ocrx_word' id='word_1_4' title='bbox 1670 2228 1884 2305; x_wconf 74' lang='lat' dir='ltr'><strong>quator</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1920 2226 1985 2287; x_wconf 82' lang='lat' dir='ltr'><strong>in</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2023 2244 2177 2289; x_wconf 76' lang='lat' dir='ltr'><strong>anno</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2218 2226 2476 2305; x_wconf 79' lang='lat' dir='ltr'>prodibit</span> <span class='ocrx_word' id='word_1_8' title='bbox 2516 2226 2781 2290; x_wconf 76' lang='lat' dir='ltr'><strong>Calendis</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 393 2356 1748 2447; baseline 0 -19"><span class='ocrx_word' id='word_1_9' title='bbox 393 2366 713 2443; x_wconf 68' lang='lat' dir='ltr'><strong>Ianuariis,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 756 2356 1060 2447; x_wconf 66' lang='lat' dir='ltr'>Aprilibias</span> <span class='ocrx_word' id='word_1_11' title='bbox 1073 2413 1092 2444; x_wconf 85' lang='lat'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1133 2368 1336 2444; x_wconf 73' lang='lat' dir='ltr'>Iuliis,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1377 2368 1748 2431; x_wconf 76' lang='lat' dir='ltr'><strong>Octobribus·</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 471 2474 1652 2573; baseline -0.002 0"><span class='ocrx_word' id='word_1_14' title='bbox 471 2474 743 2573; x_wconf 67' lang='lat' dir='ltr'><strong>Prdtium</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 784 2526 1056 2571; x_wconf 76' lang='lat' dir='ltr'><strong>annuum</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1095 2508 1210 2569; x_wconf 73' lang='lat' dir='ltr'><strong>erit</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1247 2510 1450 2571; x_wconf 80' lang='lat' dir='ltr'><strong>floren.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1491 2509 1652 2571; x_wconf 63' lang='lat'><strong>525.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 477 2650 1871 2738">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 477 2650 1871 2738">
+     <span class='ocr_line' id='line_1_4' title="bbox 477 2650 1871 2738; baseline 0.003 -28"><span class='ocrx_word' id='word_1_19' title='bbox 477 2650 706 2730; x_wconf 78' lang='lat' dir='ltr'>Singuli</span> <span class='ocrx_word' id='word_1_20' title='bbox 745 2651 1010 2712; x_wconf 74' lang='lat' dir='ltr'><strong>fasciculi</strong></span> <span class='ocrx_word' id='word_1_21' title='bbox 1047 2651 1364 2729; x_wconf 72' lang='lat' dir='ltr'><strong>separatim</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 1402 2671 1524 2713; x_wconf 84' lang='lat' dir='ltr'><strong>non</strong></span> <span class='ocrx_word' id='word_1_23' title='bbox 1564 2652 1871 2738; x_wconf 56' lang='lat' dir='ltr'><strong>venibunss.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
